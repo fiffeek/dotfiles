@@ -29,6 +29,7 @@ antigen bundle mafredri/zsh-async
 antigen bundle desyncr/auto-ls
 antigen bundle Tarrasch/zsh-autoenv
 antigen bundle unixorn/autoupdate-antigen.zshplugin
+antigen bundle wfxr/forgit
 
 antigen theme candy
 antigen apply
